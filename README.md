@@ -1,2 +1,3 @@
-# Florida-Airbnb-Capstone
-Airbnb
+# Team Project
+- 2025.06 ~ 2025.07: 지진 발생 추이 분석 및 모델링
+- 2023.09 ~ 2025.12: 플로리다 에어비앤비 예약률 예측 모델
